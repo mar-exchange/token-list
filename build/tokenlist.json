@@ -1,10 +1,10 @@
 {
   "name": "MAR Tokens List",
-  "timestamp": "2021-08-02T12:00:36.967Z",
+  "timestamp": "2021-08-09T16:15:15.629Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/mar-256.png",
@@ -446,6 +446,14 @@
       "logoURI": "https://bscscan.com/token/images/mirror-tsla_32.png"
     },
     {
+      "name": "MVP Tokenine",
+      "symbol": "MVP",
+      "address": "0x3379a0bdf5a5cb566127c421782686ba0f80490a",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/mvp.png"
+    },
+    {
       "name": "NAR Token",
       "symbol": "NAR",
       "address": "0xA1303E6199b319a891b79685F0537D289af1FC83",
@@ -588,14 +596,6 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/13545/small/iMqC3F_p_400x400.png?1609711856"
-    },
-    {
-      "name": "MVP Tokenine",
-      "symbol": "tkMVP",
-      "address": "0xc6deadba298221efbe909a26b97e6b9cd465242b",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/mvp.png"
     },
     {
       "name": "Trust Wallet",

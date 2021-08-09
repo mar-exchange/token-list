@@ -33,8 +33,8 @@
   },
   {
     "name": "MVP Tokenine",
-    "symbol": "tkMVP",
-    "address": "0xc6deadba298221efbe909a26b97e6b9cd465242b",
+    "symbol": "MVP",
+    "address": "0x3379a0bdf5a5cb566127c421782686ba0f80490a",
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/mvp.png"

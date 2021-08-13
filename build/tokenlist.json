@@ -1,10 +1,10 @@
 {
   "name": "MAR Tokens List",
-  "timestamp": "2021-08-09T16:15:15.629Z",
+  "timestamp": "2021-08-13T04:25:48.225Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/mar-256.png",
@@ -668,6 +668,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://bscscan.com/token/images/binance_32.png"
+    },
+    {
+      "name": "WIN Token",
+      "symbol": "WIN",
+      "address": "0x194Be31691214cE3a30576D2092c4a81527a53AE",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/win.png"
     },
     {
       "name": "Soteria",

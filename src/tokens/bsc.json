@@ -8,12 +8,12 @@
     "logoURI": "https://bscscan.com/token/images/bakeryswap_32.png"
   },
   {
-    "name": "BOLO Token",
-    "symbol": "BOLO",
-    "address": "0x1921168344840d1ca5acd82e8815f24582d4ad27",
+    "name": "ONGCOIN",
+    "symbol": "ONC",
+    "address": "0x4a66faebfc2d9e09830b2c7714aa46546a0792a2",
     "chainId": 56,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/bolo.png"
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/onc.png"
   },
   {
     "name": "SHOT Token",

@@ -16,6 +16,14 @@
     "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/onc.png"
   },
   {
+    "name": "METAVERSE Thailand",
+    "symbol": "META",
+    "address": "0xbbA64dc871BE2fE2114338442Dd3E45893310dcE",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/meta.png"
+  },
+  {
     "name": "SHOT Token",
     "symbol": "SHOT",
     "address": "0x10638a494b05d43af25235a34ed8fd256b529d05",

@@ -1,10 +1,10 @@
 {
   "name": "MAR Tokens List",
-  "timestamp": "2021-09-02T14:16:32.774Z",
+  "timestamp": "2021-10-15T03:20:13.918Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 4
+    "patch": 5
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/mar-256.png",
@@ -412,6 +412,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/11335/small/2020-05-19-token-200.png?1589940590"
+    },
+    {
+      "name": "METAVERSE Thailand",
+      "symbol": "META",
+      "address": "0xbbA64dc871BE2fE2114338442Dd3E45893310dcE",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/meta.png"
     },
     {
       "name": "Mirror GOOGL Token",

@@ -19,7 +19,7 @@
     "name": "KUSD",
     "symbol": "KUSD",
     "address": "0x244395d1B683A2afe0CE4259CA5cf9E38cF9a6dE",
-    "chainId": 35,
+    "chainId": 17,
     "decimals": 18,
     "logoURI": "https://bscscan.com/token/images/kusd.png"
   },

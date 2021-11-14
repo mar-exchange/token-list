@@ -23,6 +23,7 @@ const okex = require("./tokens/okex.json");
 const okexTestnet = require("./tokens/okex-testnet.json");
 const arbitrum = require("./tokens/arbitrum.json");
 const xchain = require("./tokens/xchain.json");
+const meta = require("./tokens/meta.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
@@ -41,6 +42,7 @@ module.exports = function buildList() {
       ...bkc,
       ...bsc,
       ...xchain,
+      ...meta,
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {

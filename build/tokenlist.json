@@ -1,10 +1,10 @@
 {
   "name": "MAR Tokens List",
-  "timestamp": "2021-11-14T15:09:31.232Z",
+  "timestamp": "2021-11-15T01:49:46.670Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 7
+    "patch": 8
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/mar-256.png",
@@ -36,6 +36,14 @@
       "chainId": 17,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/meta.png"
+    },
+    {
+      "name": "MVP COIN",
+      "symbol": "MVP",
+      "address": "0x9737e3Be617d482cFCF013358e1DEB188aB63E0B",
+      "chainId": 17,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/mvp.png"
     },
     {
       "name": "Wrapped META",

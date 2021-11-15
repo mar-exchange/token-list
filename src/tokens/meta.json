@@ -29,7 +29,7 @@
     "address": "0x244395d1B683A2afe0CE4259CA5cf9E38cF9a6dE",
     "chainId": 17,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/token/images/kusd.png"
+    "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/kusd.png"
   },
   {
     "name": "Wrapped META",

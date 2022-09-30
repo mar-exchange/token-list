@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Wrapped Token",
+    "symbol": "WKUB",
+    "address": "0x4dD1d9Dd0f3d9C3F6F747F99928C29924A1b42b1",
+    "chainId": 96,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/bkc.png"
+  },
+  {
+    "name": "MVP COIN",
+    "symbol": "MVP",
+    "address": "0xDD7847deD760a8e7FB882B4A9B0e990323415ed9",
+    "chainId": 96,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/mvp.png"
+  },
+  {
+    "name": "BUSD Tokenine",
+    "symbol": "tkBUSD",
+    "address": "0x1E37e3fc545cce530Efe0B0877c7cF3e669A817e",
+    "chainId": 96,
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/token/images/busd_32.png"
+  },
+  {
+    "name": "USDT Tokenine",
+    "symbol": "tkUSDT",
+    "address": "0x7416306f5Ff34119268b24eb09000A6Fd093d6b9",
+    "chainId": 96,
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/token/images/busdt_32.png"
+  },  
+  {
+    "name": "JFIN Tokenine",
+    "symbol": "tkJFIN",
+    "address": "0x8B245df1745b27EC826D050368434aBe7Ddf243F",
+    "chainId": 96,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/jfin_35.png"
+  },
+  {
+    "name": "SCZ Tokenine",
+    "symbol": "tkSCZ",
+    "address": "0x943eF1A7727Aa3b09931e6985953D9728F406340",
+    "chainId": 96,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/scz.png"
+  }  
+    
+]

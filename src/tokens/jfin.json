@@ -37,6 +37,6 @@
     "address": "0x69Df2f18B1b2a5A85D8c7DE8421F5fFc76e2d3cB",
     "chainId": 3501,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/token/images/busdt_32.png"
+    "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/busdt_32.png"
   }
 ]

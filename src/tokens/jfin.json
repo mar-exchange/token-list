@@ -22,5 +22,21 @@
     "chainId": 3501,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/jdai.png"
-  } 
+  },
+  {
+    "name": "MEO Peg USDC",
+    "symbol": "USDC",
+    "address": "0x1295238C2d6bB69fDA0Dc4C96132028f82B7a75a",
+    "chainId": 3501,
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/token/images/centre-usdc_28.png"
+  },
+  {
+    "name": "MEO Peg USDT",
+    "symbol": "USDT",
+    "address": "0x69Df2f18B1b2a5A85D8c7DE8421F5fFc76e2d3cB",
+    "chainId": 3501,
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/token/images/busdt_32.png"
+  }
 ]

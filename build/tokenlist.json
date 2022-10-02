@@ -1,10 +1,10 @@
 {
   "name": "MAR Tokens List",
-  "timestamp": "2022-10-02T12:48:24.293Z",
+  "timestamp": "2022-10-02T18:52:43.862Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 12
+    "patch": 13
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/mar-256.png",
@@ -864,7 +864,7 @@
     {
       "name": "Wrapped JFIN",
       "symbol": "WJFIN",
-      "address": "0x1C003Aef8908e3f14E5690C6c9aE02744E85c524",
+      "address": "0xd2feb187ed1689938b5555af575e79ee35707940",
       "chainId": 3501,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/jfin.png"

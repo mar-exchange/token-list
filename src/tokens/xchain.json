@@ -5,7 +5,7 @@
     "address": "0xF84646c667B3E4d0CD74f4Bd1C1Ee7FDA119AE5b",
     "chainId": 35,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/xth.png"
+    "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/xth.png"
   },
   {
     "name": "BUSD Tokenine",
@@ -29,7 +29,7 @@
     "address": "0x1b159f96B83805433D6db857cB83b8aA47B23245",
     "chainId": 35,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/jfin_35.png"
+    "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/jfin_35.png"
   },
   {
     "name": "SCZ Tokenine",
@@ -37,7 +37,7 @@
     "address": "0x91c84DE7f4b347D3934A0f699A58521e95533ce0",
     "chainId": 35,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/scz.png"
+    "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/scz.png"
   }
   
 ]

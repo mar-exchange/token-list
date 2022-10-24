@@ -5,7 +5,7 @@
     "address": "0xd2feb187ed1689938b5555af575e79ee35707940",
     "chainId": 3501,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/jfin.png"
+    "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/jfin.png"
   },
   {
     "name": "BUSD",
@@ -21,22 +21,30 @@
     "address": "0x940c30fe05C78A44BDf1D623816dC25233849469",
     "chainId": 3501,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/jdai.png"
+    "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/jdai.png"
   },
   {
-    "name": "MEO Peg USDC",
-    "symbol": "USDC",
-    "address": "0x1295238C2d6bB69fDA0Dc4C96132028f82B7a75a",
+    "name": "MEO A",
+    "symbol": "MEOA",
+    "address": "0xa0760C3D3e65994696784459014D116c5e50cef5",
     "chainId": 3501,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/token/images/centre-usdc_28.png"
+    "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/meoa.png"
   },
   {
-    "name": "MEO Peg USDT",
-    "symbol": "USDT",
-    "address": "0x69Df2f18B1b2a5A85D8c7DE8421F5fFc76e2d3cB",
+    "name": "MEO B",
+    "symbol": "MEOB",
+    "address": "0x4d918B9B7Bb32Eca3b16317566174afE089E8FeB",
     "chainId": 3501,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/busdt_32.png"
-  }
+    "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/meob.png"
+  },
+  {
+    "name": "MEO C",
+    "symbol": "MEOC",
+    "address": "0x8eF7cF9443b1245F3380DE5B496d4BAFd8B3a76C",
+    "chainId": 3501,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/meoc.png"
+  }  
 ]

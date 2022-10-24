@@ -5,7 +5,7 @@
     "address": "0xa47cB015472A8FD58169C10C731905cfD9e9De10",
     "chainId": 17,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/meta.png"
+    "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/meta.png"
   },
   {
     "name": "MVP COIN",
@@ -13,7 +13,7 @@
     "address": "0x9737e3Be617d482cFCF013358e1DEB188aB63E0B",
     "chainId": 17,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/mvp.png"
+    "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/mvp.png"
   },  
   {
     "name": "BUSD",
@@ -29,7 +29,7 @@
     "address": "0x244395d1B683A2afe0CE4259CA5cf9E38cF9a6dE",
     "chainId": 17,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/kusd.png"
+    "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/kusd.png"
   },
   {
     "name": "Wrapped META",
@@ -37,6 +37,6 @@
     "address": "0x5462f746B6aD010c4E2B67dfD871767d49d151fA",
     "chainId": 17,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/meta.png"
+    "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/meta.png"
   }
 ]

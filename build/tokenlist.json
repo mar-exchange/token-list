@@ -1,15 +1,15 @@
 {
-  "name": "MAR Tokens List",
-  "timestamp": "2022-10-02T18:52:43.862Z",
+  "name": "MEO Tokens List",
+  "timestamp": "2022-10-24T06:59:45.588Z",
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 13
+    "minor": 1,
+    "patch": 3
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/mar-256.png",
+  "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/meo.png",
   "keywords": [
-    "mar",
+    "meo",
     "default"
   ],
   "tokens": [
@@ -27,7 +27,7 @@
       "address": "0x244395d1B683A2afe0CE4259CA5cf9E38cF9a6dE",
       "chainId": 17,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/kusd.png"
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/kusd.png"
     },
     {
       "name": "Mar  Wrapped META",
@@ -35,7 +35,7 @@
       "address": "0xa47cB015472A8FD58169C10C731905cfD9e9De10",
       "chainId": 17,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/meta.png"
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/meta.png"
     },
     {
       "name": "MVP COIN",
@@ -43,7 +43,7 @@
       "address": "0x9737e3Be617d482cFCF013358e1DEB188aB63E0B",
       "chainId": 17,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/mvp.png"
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/mvp.png"
     },
     {
       "name": "Wrapped META",
@@ -51,7 +51,7 @@
       "address": "0x5462f746B6aD010c4E2B67dfD871767d49d151fA",
       "chainId": 17,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/meta.png"
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/meta.png"
     },
     {
       "name": "BUSD Tokenine",
@@ -67,7 +67,7 @@
       "address": "0x1b159f96B83805433D6db857cB83b8aA47B23245",
       "chainId": 35,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/jfin_35.png"
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/jfin_35.png"
     },
     {
       "name": "SCZ Tokenine",
@@ -75,7 +75,7 @@
       "address": "0x91c84DE7f4b347D3934A0f699A58521e95533ce0",
       "chainId": 35,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/scz.png"
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/scz.png"
     },
     {
       "name": "USDT Tokenine",
@@ -91,7 +91,7 @@
       "address": "0xF84646c667B3E4d0CD74f4Bd1C1Ee7FDA119AE5b",
       "chainId": 35,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/xth.png"
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/xth.png"
     },
     {
       "name": "Cardano Token",
@@ -387,7 +387,7 @@
       "address": "0x8ad88bc768048596f58cd6572dbab979274faccb",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/jfin_35.png"
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/jfin_35.png"
     },
     {
       "name": "JNTR/b",
@@ -454,12 +454,20 @@
       "logoURI": "https://assets.coingecko.com/coins/images/11335/small/2020-05-19-token-200.png?1589940590"
     },
     {
+      "name": "MEO",
+      "symbol": "MEO",
+      "address": "0x9fAE30516Ebe02Bb4C472b91848C7D9887f28494",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/meo.png"
+    },
+    {
       "name": "METAVERSE Thailand",
       "symbol": "META",
       "address": "0xbbA64dc871BE2fE2114338442Dd3E45893310dcE",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/meta.png"
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/meta.png"
     },
     {
       "name": "Mirror GOOGL Token",
@@ -491,7 +499,7 @@
       "address": "0x3379a0bdf5a5cb566127c421782686ba0f80490a",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/mvp.png"
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/mvp.png"
     },
     {
       "name": "NAR Token",
@@ -539,7 +547,7 @@
       "address": "0x4a66faebfc2d9e09830b2c7714aa46546a0792a2",
       "chainId": 56,
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/onc.png"
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/onc.png"
     },
     {
       "name": "Ontology Token",
@@ -587,7 +595,7 @@
       "address": "0x39f1014a88c8ec087cedf1bfc7064d24f507b894",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/scz.png"
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/scz.png"
     },
     {
       "name": "SHOT Token",
@@ -595,7 +603,7 @@
       "address": "0x10638a494b05d43af25235a34ed8fd256b529d05",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/shot.png"
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/shot.png"
     },
     {
       "name": "SPARTAN PROTOCOL TOKEN",
@@ -723,7 +731,7 @@
       "address": "0x194Be31691214cE3a30576D2092c4a81527a53AE",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/win.png"
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/win.png"
     },
     {
       "name": "Soteria",
@@ -782,52 +790,52 @@
       "logoURI": "https://bscscan.com/token/images/zcash_32.png"
     },
     {
+      "name": "MEO Peg DAI",
+      "symbol": "DAI",
+      "address": "0x1669C7b7Ce4d18E4eadb52701F8E945622379B8F",
+      "chainId": 96,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/dai_32.png"
+    },
+    {
+      "name": "META TOKEN",
+      "symbol": "META",
+      "address": "0xb2D5a5AEC0C7f2Cac33DcdF6D7B47Ab6Dd403246",
+      "chainId": 96,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/meta.png"
+    },
+    {
       "name": "MVP COIN",
       "symbol": "MVP",
       "address": "0xDD7847deD760a8e7FB882B4A9B0e990323415ed9",
       "chainId": 96,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/mvp.png"
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/mvp.png"
     },
     {
-      "name": "BUSD Tokenine",
-      "symbol": "tkBUSD",
-      "address": "0x1E37e3fc545cce530Efe0B0877c7cF3e669A817e",
+      "name": "MEO Peg USDC",
+      "symbol": "USDC",
+      "address": "0x3a5d71f3e0db649f5b1c9F96Da657A36dBC03eFD",
       "chainId": 96,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/busd_32.png"
+      "logoURI": "https://bscscan.com/token/images/centre-usdc_28.png"
     },
     {
-      "name": "JFIN Tokenine",
-      "symbol": "tkJFIN",
-      "address": "0x8B245df1745b27EC826D050368434aBe7Ddf243F",
+      "name": "MEO Peg USDT",
+      "symbol": "USDT",
+      "address": "0xDD845a48214B2cBC7Dae413B5dbc14C0bd415B18",
       "chainId": 96,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/jfin_35.png"
-    },
-    {
-      "name": "SCZ Tokenine",
-      "symbol": "tkSCZ",
-      "address": "0x943eF1A7727Aa3b09931e6985953D9728F406340",
-      "chainId": 96,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/scz.png"
-    },
-    {
-      "name": "USDT Tokenine",
-      "symbol": "tkUSDT",
-      "address": "0x7416306f5Ff34119268b24eb09000A6Fd093d6b9",
-      "chainId": 96,
-      "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/busdt_32.png"
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/busdt_32.png"
     },
     {
       "name": "Wrapped Token",
       "symbol": "WKUB",
-      "address": "0x4dD1d9Dd0f3d9C3F6F747F99928C29924A1b42b1",
+      "address": "0x562875853d0a0711891bb847d5aae46a2b8a08f2",
       "chainId": 96,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/bkc.png"
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/bkc.png"
     },
     {
       "name": "BUSD",
@@ -843,23 +851,31 @@
       "address": "0x940c30fe05C78A44BDf1D623816dC25233849469",
       "chainId": 3501,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/jdai.png"
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/jdai.png"
     },
     {
-      "name": "MEO Peg USDC",
-      "symbol": "USDC",
-      "address": "0x1295238C2d6bB69fDA0Dc4C96132028f82B7a75a",
+      "name": "MEO A",
+      "symbol": "MEOA",
+      "address": "0xa0760C3D3e65994696784459014D116c5e50cef5",
       "chainId": 3501,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/centre-usdc_28.png"
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/meoa.png"
     },
     {
-      "name": "MEO Peg USDT",
-      "symbol": "USDT",
-      "address": "0x69Df2f18B1b2a5A85D8c7DE8421F5fFc76e2d3cB",
+      "name": "MEO B",
+      "symbol": "MEOB",
+      "address": "0x4d918B9B7Bb32Eca3b16317566174afE089E8FeB",
       "chainId": 3501,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/busdt_32.png"
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/meob.png"
+    },
+    {
+      "name": "MEO C",
+      "symbol": "MEOC",
+      "address": "0x8eF7cF9443b1245F3380DE5B496d4BAFd8B3a76C",
+      "chainId": 3501,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/meoc.png"
     },
     {
       "name": "Wrapped JFIN",
@@ -867,7 +883,7 @@
       "address": "0xd2feb187ed1689938b5555af575e79ee35707940",
       "chainId": 3501,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/jfin.png"
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/jfin.png"
     },
     {
       "name": "BUSD",
@@ -883,7 +899,63 @@
       "address": "0x5383674129a4a5B234c8a18cE6e69322f573FE57",
       "chainId": 3502,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mar-exchange/token-list/main/src/images/jfin.png"
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/jfin.png"
+    },
+    {
+      "name": "MEO A",
+      "symbol": "MEOA",
+      "address": "0xa0760C3D3e65994696784459014D116c5e50cef5",
+      "chainId": 10001,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/meoa.png"
+    },
+    {
+      "name": "MEO B",
+      "symbol": "MEOB",
+      "address": "0x4d918B9B7Bb32Eca3b16317566174afE089E8FeB",
+      "chainId": 10001,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/meob.png"
+    },
+    {
+      "name": "MEO C",
+      "symbol": "MEOC",
+      "address": "0x8eF7cF9443b1245F3380DE5B496d4BAFd8B3a76C",
+      "chainId": 10001,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/meoc.png"
+    },
+    {
+      "name": "MEO",
+      "symbol": "MEO",
+      "address": "0x4a3747eC54E0F34C23b0b543262B1A902058A41f",
+      "chainId": 42170,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/meo.png"
+    },
+    {
+      "name": "MEO A",
+      "symbol": "MEOA",
+      "address": "0xa0760C3D3e65994696784459014D116c5e50cef5",
+      "chainId": 42170,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/meoa.png"
+    },
+    {
+      "name": "MEO B",
+      "symbol": "MEOB",
+      "address": "0x4d918B9B7Bb32Eca3b16317566174afE089E8FeB",
+      "chainId": 42170,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/meob.png"
+    },
+    {
+      "name": "MEO C",
+      "symbol": "MEOC",
+      "address": "0x8eF7cF9443b1245F3380DE5B496d4BAFd8B3a76C",
+      "chainId": 42170,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/meoc.png"
     }
   ]
 }
